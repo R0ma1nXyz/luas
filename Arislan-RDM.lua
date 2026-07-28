@@ -1383,13 +1383,6 @@ function customize_melee_set(meleeSet)
     return meleeSet
 end
 
--- Modify the default melee set after it was constructed.
-function customize_melee_set(meleeSet)
-
-
-    return meleeSet
-end
-
 -- Set eventArgs.handled to true if we don't want the automatic display to be run.
 function display_current_job_state(eventArgs)
     display_current_caster_state()
