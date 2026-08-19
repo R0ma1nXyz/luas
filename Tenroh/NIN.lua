@@ -452,7 +452,7 @@ function init_gear_sets()
         ring1={name="Chirich Ring +1", bag="wardrobe3"},
         ring2={name="Chirich Ring +1", bag="wardrobe4"},
         back="Moonlight cape",
-        waist="Platinum mooble belt",
+        waist="Platinum moogle belt",
         }
 
     sets.idle.DT = set_combine(sets.idle, {
