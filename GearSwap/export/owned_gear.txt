@@ -1,0 +1,522 @@
+Abyssal Mask
+Acad. Bracers +2
+Acad. Loafers +2
+Acad. Mortar. +2
+Acro Gauntlets
+Acro Surcoat
+Acuity Belt +1
+Adad Amulet
+Adhe. Gamashes +1
+Adhemar Bonnet +1
+Adhemar Jacket +1
+Adhemar Kecks +1
+Adhemar Wrist. +1
+Aegis
+Aettir
+Agony Jerkin +1
+Agwu's Axe
+Agwu's Cap
+Agwu's Gages
+Agwu's Pigaches
+Agwu's Slops
+Ahosi Leggings
+Alaunus's Cape
+Amalric Coif +1
+Amalric Doublet +1
+Amalric Gages +1
+Amalric Nails +1
+Amalric Slops +1
+Ammurapi Shield
+Anarchy +2
+Anchoret's Mantle
+Andartia's Mantle
+Angler's Hose
+Angon
+Anu Torque
+Aptitude Mantle +1
+Arbatel Bonnet +3
+Arbatel Bracers +3
+Arbatel Gown +3
+Arbatel Loafers +3
+Arbatel Pants +3
+Argute Stole +2
+Armageddon
+Asklepian Belt
+Assid. Pants +1
+Assim. Bazu. +1
+Assim. Charuqs +1
+Assim. Jubbah +2
+Assim. Shalwar +1
+Atro. Chapeau +1
+Atrophy Boots +1
+Atrophy Gloves +1
+Atrophy Tabard +1
+Atrophy Tights +1
+Aurgelmir Orb
+Aurist's Cape +1
+Aya. Cosciales +2
+Aya. Manopolas +1
+Ayanmo Corazza +2
+Aya. Zucchetto +2
+Baetyl Pendant
+Balarama Grip
+Bane Cape
+Barathrum
+Bard's Charm +2
+Befouled Crown
+Beneficus
+Bihu Cannions
+Bihu Jstcorps. +3
+Bihu Slippers +3
+Blistering Sallet +1
+Blurred Harp +1
+Bolelabunga
+Bookworm's Cape
+Brigantia's Mantle
+Brioso Cannions +3
+Brioso Cuffs +3
+Brioso Justau. +3
+Brioso Roundlet +3
+Brioso Slippers +3
+Bunzi's Gloves
+Bunzi's Hat
+Bunzi's Pants
+Bunzi's Robe
+Bunzi's Rod
+Bunzi's Sabots
+Cab. Breeches +1
+Cab. Coronet +1
+Cab. Gauntlets +1
+Cab. Leggings +1
+Cab. Surcoat +1
+Camulus's Mantle
+Carmine Cuisses +1
+Carmine Fin. Ga. +1
+Carmine Greaves +1
+Carmine Mask +1
+Carnwenhan
+Carrier's Sash
+Centovente
+Chaac Belt
+Chanter's Shield
+Chas. Culottes +3
+Chass. Bottes +3
+Chasseur's Frac +3
+Chasseur's Gants +3
+Chass. Tricorne +2
+Chatoyant Staff
+Chironic Hat
+Chironic Hose
+Chuq'aba Belt
+Cichol's Mantle
+Cimmerian Sash
+Clerisy Strap +1
+Clr. Torque +2
+Cohort Cloak +1
+Coiste Bodhar
+Colada
+Combatant's Torque
+Comm. Charm +2
+Compensator
+Cornelia's Belt
+Creed Baudrier
+Crepuscular Pebble
+Crier's Gaiters
+Culminus
+Dampening Tam
+Danzo Sune-Ate
+Darraigner's Brais
+Date Shuriken
+Daurdabla
+Daybreak
+Death Penalty
+Debilis Medallion
+Decimating Bullet
+Dgn. Collar +2
+Dire Broth
+Dokoku
+Doyen Pants
+Dualism Collar +1
+Dunna
+Earp
+Ebers Bliaut +3
+Ebers Cap +3
+Ebers Duckbills +3
+Ebers Mitts +3
+Ebers Pant. +3
+Egoist's Tathlum
+Elite Royal Collar
+Embla Sash
+Emet Harness +1
+Emphatikos Rope
+Enif Cosciales
+Enki Strap
+Enticer's Pants
+Erra Pendant
+Erudit. Necklace
+Eschan Stone
+Eschite Greaves
+Falcon Eye
+Fanatic Gloves
+Ferocity
+Fi Follet Cape +1
+Fili Calot +1
+Fili Cothurnes +1
+Fili Hongreline +1
+Fili Manchettes +2
+Fili Rhingrave +1
+Fisherman's Boots
+Fisherman's Smock
+Flam. Gambieras +2
+Flam. Zucchetto +2
+Floral Gauntlets
+Flume Belt +1
+Fly Lure
+Fotia Belt
+Fotia Gorget
+Founder's Greaves
+Founder's Hose
+Fsh. Gloves
+Fsh. Tunica
+Fucho-no-Obi
+Fudo Masamune
+Gada
+Gandring
+Gazu Bracelets +1
+Gende. Gages +1
+Genmei Shield
+Ghastly Tathlum +1
+Ghostfyre Cape
+Girru
+Gishdubar Sash
+Gjallarhorn
+Gleti's Boots
+Gleti's Breeches
+Gleti's Cuirass
+Gleti's Gauntlets
+Gleti's Knife
+Gleti's Mask
+Gokotai
+Goujian
+Grapevine Cape
+Grioavolr
+Grunfeld Rope
+Gyve Trousers
+Hachirin-no-Obi
+Hachiya Hatsu. +3
+Halitus Helm
+Hashi. Basmak +3
+Hashi. Bazu. +3
+Hashishin Kavuk +3
+Hashishin Mintan +3
+Hashishin Tayt +3
+Hattori Hakama +1
+Hattori Kyahan +3
+Hattori Ningi +3
+Hattori Tekko +1
+Heishi Shorinken
+Helios Band
+Helios Boots
+Helios Gloves
+Herculean Boots
+Herculean Gloves
+Herculean Helm
+Herculean Trousers
+Herculean Vest
+Hieros Mittens
+Hitaki
+Hiza. Haramaki +2
+Hiza. Sune-Ate +2
+Hjarrandi Breast.
+Hjarrandi Helm
+Hoe
+Homiliary
+Hydrocera
+Iapetus
+Ikenga's Hat
+Ikenga's Vest
+Impatiens
+Incanter's Torque
+Incarnation Sash
+Intarabus's Cape
+Inyan. Crackows +2
+Inyan. Dastanas +2
+Inyanga Jubbah +2
+Inyanga Shalwar +2
+Inyanga Tiara +2
+Ioskeha Belt +1
+Irenic Strap +1
+Iskur Gorget
+Jhakri Coronal +2
+Jhakri Cuffs +2
+Jhakri Pigaches +2
+Jhakri Robe +2
+Jhakri Slops +2
+Jokushu Haidate
+Jumalik Helm
+Jute Boots +1
+Kali
+Kasiri Belt
+Kaykaus Bliaut +1
+Kaykaus Boots +1
+Kaykaus Cuffs +1
+Kaykaus Mitra +1
+Kaykaus Tights +1
+Ken. Hakama +1
+Ken. Jinpachi +1
+Ken. Samue +1
+Ken. Sune-Ate +1
+Kentarch Belt +1
+Khonsu
+K. Kachina Belt +1
+Knobkierrie
+Kunai
+Kunimitsu
+Kustawi +1
+Laksa. Bottes +2
+Laksa. Frac +3
+Laksa. Gants +1
+Laksa. Trews
+Laksa. Tricorne +3
+Lanun Bottes +3
+Lanun Frac +3
+Lanun Gants +3
+Lanun Knife
+Lanun Trews +1
+Lanun Tricorne +3
+Lethargy Sayon +1
+Leth. Chappel +1
+Leth. Fuseau +1
+Leth. Gantherots +1
+Leth. Houseaux +1
+Leyline Gloves
+Linos
+Lissome Necklace
+Living Bullet
+Loess Barbuta +1
+Loricate Torque +1
+Lugh's Cape
+Luh. Bazubands +1
+Luh. Keffiyeh +1
+Luhlaza Charuqs +1
+Luhlaza Jubbah +1
+Luhlaza Shalwar +3
+Luminary Sash
+Lu Shang's F. Rod
+Macabre Gaunt. +1
+Mafic Cudgel
+Magoraga Beads
+Malevolence
+Malignance Boots
+Malignance Chapeau
+Malignance Gloves
+Malignance Pole
+Malignance Sword
+Malignance Tabard
+Malignance Tights
+Mall. Chapeau +2
+Marin Staff +1
+Marsyas
+Matre Bell
+Mavi Tathlum
+Maxentius
+Meatball
+Mecisto. Mantle
+Medium's Sabots
+Meg. Gloves +2
+Merlinic Crackows
+Merlinic Dastanas
+Merlinic Hood
+Midras's Helm +1
+Mirage Stole +2
+Mnbw. Whistle +1
+Mochi. Chainmail +3
+Mochi. Hakama +3
+Mochi. Hatsuburi +3
+Mochi. Kyahan +3
+Moonlight Cape
+Moonlight Necklace
+Mou. Manteel +1
+Mousai Gages +1
+Mousai Turban +1
+Mou. Seraweels +1
+Mpaca's Cap
+Mummu Gamash. +2
+Mummu Kecks +2
+Mummu Wrists +2
+Musa
+Naegling
+Navon Crackows
+Nexus Cape
+Nicander's Necklace
+Ninja Nodowa +2
+Nodens Gorget
+Nusku Shield
+Nyame Flanchard
+Nyame Gauntlets
+Nyame Helm
+Nyame Mail
+Nyame Sollerets
+Obstin. Sash
+Odyss. Chestplate
+Odyssean Greaves
+Olympus Sash
+Oneiros Knife
+Oneiros Rope
+Orpheus's Sash
+Orunmila's Torque
+Oshasha's Treatise
+Oshosi Vest +1
+Ostro Greaves
+Otomi Gloves
+Passion Jacket
+Pastoralist's Mantle
+Peacock Charm
+Peda. Bracers +3
+Peda. Gown +3
+Peda. Loafers +3
+Peda. M.Board +3
+Peda. Pants +3
+Pemphredo Tathlum
+Perdition Slops
+Perimede Cape
+Per. Lucky Egg
+Pet Food Theta
+Piety Bliaut +3
+Piety Cap +1
+Piety Duckbills +1
+Piety Pantaln. +3
+Pillager's Vest +1
+Pill. Armlets +1
+Pill. Bonnet +1
+Pill. Culottes +1
+Pill. Poulaines +1
+Pinga Tunic +1
+Pixie Hairpin +1
+Plat. Mog. Belt
+Plun. Armlets +3
+Psycloth Boots
+Psycloth Lappas
+Ptero. Armet +3
+Ptero. Brais +3
+Ptero. Fin. G. +3
+Ptero. Greaves +1
+Ptero. Mail +1
+Pursuer's Gaiters
+Quanpur Necklace
+Quartz Tathlum +1
+Rawhide Gloves
+Rawhide Mask
+Regal Necklace
+Regal Pumps +1
+Reiki Yotai
+Rep. Plat. Medal
+Reti Pendant
+Rev. Surcoat +2
+Rosmerta's Cape
+Rostam
+Router
+Rubicundity
+Rudianos's Mantle
+Rumination Sash
+Ryuo Somen +1
+Sacro Gorget
+Saevus Pendant +1
+Sailfi Belt +1
+Sakpata's Cuisses
+Sakpata's Gauntlets
+Sakpata's Helm
+Sakpata's Leggings
+Sakpata's Plate
+Sakpata's Sword
+Samnuha Tights
+Sanctity Necklace
+Sapience Orb
+Schiavona
+Seeth. Bomblet +1
+Seki Shuriken
+Seraphic Ampulla
+Shab. Cuirass +1
+Shedir Seraweels
+Shining One
+Shinjutsu-no-Obi +1
+Shobuhouou Kabuto
+Sibyl Scarf
+Siegel Sash
+Skulk. Poulaines +1
+Solemnity Cape
+Sophistry
+Souv. Cuirass +1
+Souv. Diechlings +1
+Souveran Schuhs +1
+Souv. Handsch. +1
+Souv. Schaller +1
+Sroda Tathlum
+Staunch Tathlum +1
+Stone Gorget
+Strobilus
+Sucellos's Cape
+Sulev. Cuisses +2
+Sulev. Gauntlets +2
+Sulev. Leggings +2
+Svelt. Gouriz +1
+Swith Cape +1
+Taeon Boots
+Taeon Chapeau
+Taeon Gloves
+Taeon Tabard
+Taeon Tights
+Tatena. Harama. +1
+Tatena. Sune. +1
+Tauret
+Telchine Braconi
+Telchine Cap
+Telchine Chas.
+Telchine Gloves
+Telchine Pigaches
+Tempered Cape +1
+Theo. Duckbills +1
+Theophany Mitts +3
+Thibron
+Th. Pantaloons +2
+Thuellaic Ecu +1
+Thunder Hammer
+Toutatis's Cape
+Twilight Cape
+Twilight Cloak
+Twinned Blade
+Unmoving Collar +1
+Updraft Mantle
+Utu Grip
+Vadose Rod
+Vanya Clogs
+Vanya Cuffs
+Vanya Hood
+Vanya Robe
+Vanya Slops
+Vedic Coat
+Vim Torque +1
+Vishap Brais +1
+Vishap F. G. +1
+Vitiation Boots +1
+Vitiation Gloves
+Vitiation Tabard
+Vitiation Tights
+Viti. Chapeau +1
+Voluspa Tathlum
+Vrikodara Jupon
+Warder's Charm +1
+Weard Mantle
+Weather. Robe +1
+Windbuffet Belt +1
+Wind Knife
+Witful Belt
+Yagrush
+Yamarang
+Yemaya Belt
+Yetshila +1
+Yorium Barbuta
+Yorium Cuirass
+Yorium Sabatons
+Zanmato
+Zoar Subligar +1
